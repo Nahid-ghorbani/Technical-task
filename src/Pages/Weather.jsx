@@ -41,12 +41,6 @@ const Item = styled.div`
   font-size: 5rem;
 `;
 
-const Wind = styled.div`
-  margin: 0.5rem auto;
-  padding: 0.5rem;
-  font-size: 3rem;
-`;
-
 const Unit = styled.span`
   font-size: 2rem;
   position: relative;
