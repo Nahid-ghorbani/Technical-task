@@ -105,7 +105,6 @@ function Weather() {
           </p>
           <p>
             <Item>
-              {" "}
               {wind} <Speed>m/s</Speed>
             </Item>
             <div>Wind Speed</div>
